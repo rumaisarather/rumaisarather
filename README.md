@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rumaisarather&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats-rumaisarather.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark&border_color=252334)
+![GitHub stats](https://github-readme-stats-rumaisarather.vercel.app/api?username=rumaisarather&show_icons=true&theme=aura_dark&border_color=252334)
 
 [![Top Langs](https://github-readme-stats-rumaisarather.vercel.app/api/top-langs/?username=rumaisarather&layout=compact&theme=aura_dark&border_color=252334)](https://github.com/rumaisarather/github-readme-stats)
 
