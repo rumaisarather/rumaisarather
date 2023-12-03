@@ -1,6 +1,13 @@
 # Hi there<img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">,
 
 ### I am an ECE Graduate, Learning Full Stack Web Development[MERN Stack
+![](https://komarev.com/ghpvc/?username=rumaisarather&color=E83A59&style=for-the-badge)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rumaisarather&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats-rumaisarather.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark&border_color=252334)
+
+[![Top Langs](https://github-readme-stats-rumaisarather.vercel.app/api/top-langs/?username=rumaisarather&layout=compact&theme=aura_dark&border_color=252334)](https://github.com/rumaisarather/github-readme-stats)
 
 ## **Socials**
 
