@@ -3,7 +3,7 @@
 ### I am an ECE Graduate, Learning Full Stack Web Development[MERN Stack]
 ![](https://komarev.com/ghpvc/?username=rumaisarather&color=E83A59&style=for-the-badge)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rumaisarather&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumaisarather &layout=compact&theme=aura_dark&border_color=252334)](https://github.com/rumaisarather/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumaisarather&theme=tokyonight)
 
 ## **Socials**
 
