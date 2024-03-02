@@ -1,6 +1,6 @@
 # Hi there<img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">,
 
-### I am an ECE Graduate, Full Stack Web Developer [MERN Stack]
+### I am an ECE Graduate, Full Stack Web Developer[MERN Stack] with Strong Analytical skills and problem solving..
 ![](https://komarev.com/ghpvc/?username=rumaisarather&color=E83A59&style=for-the-badge)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rumaisarather&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rumaisarather&theme=tokyonight)
